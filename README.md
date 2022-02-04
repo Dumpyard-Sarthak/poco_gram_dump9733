@@ -1,0 +1,14 @@
+# qssi-user 11 RKQ1.200826.002 V12.5.3.0.RJPINXM release-keys
+- manufacturer: xiaomi
+- platform: atoll
+- codename: gram
+- flavor: qssi-user
+- release: 11
+- id: RKQ1.200826.002
+- incremental: V12.5.3.0.RJPINXM
+- tags: release-keys
+- fingerprint: POCO/gram_in/gram:11/RKQ1.200826.002/V12.5.3.0.RJPINXM:user/release-keys
+- is_ab: false
+- brand: POCO
+- branch: qssi-user-11-RKQ1.200826.002-V12.5.3.0.RJPINXM-release-keys
+- repo: poco_gram_dump9733
